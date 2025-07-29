@@ -7,7 +7,6 @@ public class EvenNo1To100 {
 			if (i % 2 != 0) {
 				System.out.print(i + " ");
 			}
-
 		}
 	}
 }
